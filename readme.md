@@ -1,8 +1,6 @@
-# Proyecto Git 2025-10-27
 
-Este proyecto es un ejemplo para practicar Git y GitHub.
 
-## Enlaces útiles
+## Enlaces 
 
 - [Página oficial de Git](https://git-scm.com/)
 - [Git Cheat Sheet](https://git-scm.com/docs/git-cheat-sheet)
